@@ -7,3 +7,4 @@ create a File
 check status by git status
 git add (File Path)
 git commit -m "Message"
+new line
