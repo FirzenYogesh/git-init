@@ -1,0 +1,9 @@
+Simple Text File
+git-(repo name)
+code.
+git checkout -b (Branch Name)
+git status # Used to check the status of the local repo
+create a File
+check status by git status
+git add (File Path)
+git commit -m "Message"
